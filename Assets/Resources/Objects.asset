@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1021de182cb5ee4aa7fdcba8ce66bdd, type: 3}
+  m_Name: Objects
+  m_EditorClassIdentifier: 
+  objectList:
+  - name: Stikman
+    objects:
+    - {fileID: 392068737629361782, guid: 38841870db766da4f8276efb73adadb5, type: 3}
+    - {fileID: 7449480246986347719, guid: 3296c6050624a634995a1d0f7cdc709f, type: 3}
+    - {fileID: 5055089128709656399, guid: 555eaf1de5503c44fa08bb3623f1717e, type: 3}
+    - {fileID: 822234649960466416, guid: ef060a1c0bf852f46abc3e28acd0e6f0, type: 3}
+    - {fileID: 2709909184458543941, guid: e045db0424ffce34691f35aa33c12b75, type: 3}
